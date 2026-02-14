@@ -6,7 +6,7 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +33,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "bulma": "^0.9.0",
-    "parcel": "^1.12.4",
+    "parcel": "^2.16.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
